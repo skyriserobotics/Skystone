@@ -1,3 +1,13 @@
+## Skyrise Robotics Source
+This also includes the base Skystone FTC app code. 
+Our source code is located under teamcode.
+
+Here is our robot making use of it.
+
+![Our Robot](https://i.ibb.co/gMXD765/Whats-App-Image-2019-12-07-at-10-35-53-AM.jpg "Our Robot")
+
+Everything below is from the original Readme file of Skystone FTC app.
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
