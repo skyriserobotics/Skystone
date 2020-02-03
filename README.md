@@ -3,7 +3,9 @@ This also includes the base Skystone FTC app code.
 Our source code is located under teamcode.
 https://github.com/skyriserobotics/Skystone/tree/master/teamcode/src/main/java/org/firstinspires/ftc/teamcode
 
-![Our Team](https://i.ibb.co/tmwBr03/Whats-App-Image-2019-11-09-at-8-46-17-AM-2.jpg "Our Team with Robot")
+![Our Team](https://i.ibb.co/j4v3x45/team-pic2.jpg "Our Team with Robot")
+
+![Our Team With Robot at AML Meet #1](https://i.ibb.co/tmwBr03/Whats-App-Image-2019-11-09-at-8-46-17-AM-2.jpg "Our Team with Robot")
 
 ![Our Robot](https://i.ibb.co/gMXD765/Whats-App-Image-2019-12-07-at-10-35-53-AM.jpg "Our Robot")
 
