@@ -9,6 +9,8 @@ https://github.com/skyriserobotics/Skystone/tree/master/teamcode/src/main/java/o
 
 ![Our Robot](https://i.ibb.co/gMXD765/Whats-App-Image-2019-12-07-at-10-35-53-AM.jpg "Our Robot")
 
+More info at our team website - https://skyriserobotics16525.weebly.com/
+
 Everything below is from the original Readme file of Skystone FTC app.
 
 ## NOTICE
